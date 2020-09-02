@@ -1,9 +1,8 @@
 <h1 align="center">Welcome to Home Mortgage Calculator 👋</h1>
-<p>
-  <a href="https://twitter.com/michaelstoffer" target="_blank">
-    <img alt="Twitter: michaelstoffer" src="https://img.shields.io/twitter/follow/michaelstoffer.svg?style=social" />
-  </a>
-</p>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/RealtorSessions?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fseschwan&screen_name=RealtorSessions)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/michaelstoffer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmichaelstoffer&screen_name=michaelstoffer)
 
 > A simple application that helps you calculate your home mortgage.
 
